@@ -1,0 +1,30 @@
+{
+    "details": "Generated for daab24 at 2024-09-26 08:06:48.",
+    "key": "bd5a5e58391a53c7f614213343a68b56",
+    "summary": {
+        "questions": 8,
+        "points": 8,
+        "pass": 8.0,
+        "passdistinct": 8.0
+    },
+    "points": {
+        "1.1": 1,
+        "1.2": 1,
+        "1.3": 1,
+        "1.4": 1,
+        "2.1": 1,
+        "2.2": 1,
+        "2.3": 1,
+        "2.4": 1
+    },
+    "answers": {
+        "1.1": false,
+        "1.2": true,
+        "1.3": 31,
+        "1.4": "Se3ret is not a valid password and contains 2 vowels.",
+        "2.1": 2142,
+        "2.2": "restaurant is a funny word",
+        "2.3": 900,
+        "2.4": "hemidemisemiquaver is a funny word and the square is 676"
+    }
+}

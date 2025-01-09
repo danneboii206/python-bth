@@ -1,0 +1,4 @@
+Daniel | 100.0 | easy 
+Daniel | 88.0 | easy 
+Daniel | 95.556 | medium 
+Daniel | 87.324 | hard 
